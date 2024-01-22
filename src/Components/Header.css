@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+}
+
+.logo{
+    font-size: 40px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    color: aliceblue;
+}
+.navbar a{
+    color: aliceblue;
+    font-size: 20px;
+}
